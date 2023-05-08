@@ -10,8 +10,13 @@
   "group_chat_prefix": [
     "@bot"
   ],
-  "group_name_white_list": ["535"],
-  "group_chat_in_one_session": ["535"],
+  "group_name_white_list": [
+    "ChatGPT测试群",
+    "ChatGPT测试群2","535"
+  ],
+  "group_chat_in_one_session": [
+    "ChatGPT测试群","535"
+  ],
   "image_create_prefix": [
     "画",
     "看",
